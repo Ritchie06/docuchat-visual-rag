@@ -94,6 +94,6 @@ Image reading can also be switched on or off with the checkbox in the app. Turn 
 - Deploy on Streamlit Community Cloud
 
 # screenshot
-<img width="1408" height="881" alt="1" src="https://github.com/user-attachments/assets/d65e013a-dffa-4ec0-a042-eda1b2b0916b" />
-<img width="1408" height="881" alt="2" src="https://github.com/user-attachments/assets/f8df6193-904c-432b-a49b-e9a1149cc82b" />
-<img width="1408" height="881" alt="3" src="https://github.com/user-attachments/assets/b7efa379-bf59-40a1-9333-f51048977b29" />
+<img width="1200" height="800" alt="1" src="https://github.com/user-attachments/assets/d65e013a-dffa-4ec0-a042-eda1b2b0916b" />
+<img width="1200" height="800" alt="2" src="https://github.com/user-attachments/assets/f8df6193-904c-432b-a49b-e9a1149cc82b" />
+<img width="1200" height="800" alt="3" src="https://github.com/user-attachments/assets/b7efa379-bf59-40a1-9333-f51048977b29" />
