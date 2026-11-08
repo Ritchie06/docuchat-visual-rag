@@ -1,4 +1,4 @@
-# DocuChat: Ask Questions, Get Cited Answers from Any PDF
+# DocuChat:Visual - RAG
 
 A Retrieval-Augmented Generation (RAG) app. Upload a PDF, ask questions in plain English, and get answers grounded in the document, with the page numbers they came from. If the answer isn't in the document, it says so instead of guessing.
 
